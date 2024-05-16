@@ -5,6 +5,6 @@
 
  ## Technologies 
  
-![télécharger (16)](https://github.com/mathieu-Glt/front_seLoger/assets/84771497/521c274f-f2d1-4c54-bd23-23e37e82659c) 
-![télécharger (7)](https://github.com/mathieu-Glt/front_seLoger/assets/84771497/9a6481da-8183-4907-a45a-3c86eddeab37) 
-![télécharger (2)](https://github.com/mathieu-Glt/front_seLoger/assets/84771497/5d43a5f3-0d44-4e97-b615-f0fa3e414969)
+<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" />
+<img src="https://www.cypress.io/cypress_logo_social.png" width="80" />
