@@ -18,4 +18,5 @@ Once the dependencies are installed, start the development server with the follo
 
   ## Overview  
 ![Capture d'écran 2024-05-16 113803](https://github.com/mathieu-Glt/front_seLoger/assets/84771497/2f922ca6-c378-46f1-ac09-19e85d63efa4) 
-![Capture d'écran 2024-05-16 113831](https://github.com/mathieu-Glt/front_seLoger/assets/84771497/f20478bf-0f75-447c-8065-c68a50e977e5)
+![Capture d'écran 2024-05-16 113831](https://github.com/mathieu-Glt/front_seLoger/assets/84771497/f20478bf-0f75-447c-8065-c68a50e977e5) 
+![Capture d'écran 2024-05-16 113959](https://github.com/mathieu-Glt/front_seLoger/assets/84771497/9c00e29b-0f72-4386-a9e8-43f523e4c757)
